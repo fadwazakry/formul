@@ -1,0 +1,125 @@
+main{
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    width: 600px;
+    border-radius: 8px;
+    border: 5px solid #ddd;    
+    text-align: center;
+
+    
+
+}
+
+
+
+
+
+.form{
+text-align: center;
+display: flex;
+flex-direction: column;
+height: 700px;
+align-items: center;
+justify-content: center;
+border: 10px solid rgb(rgb(27, 18, 18), green, blue);
+width: 600px;
+
+
+}
+ .me{
+    display: flex;
+    gap: 10px;
+    box-sizing: border-box;
+    
+
+ }
+ .forget{ 
+    color: blue;
+
+ }
+
+ .in{
+
+   padding: 10px;
+   width: 300px;
+   border-radius: 10px;
+   border: none;
+   background-color: blue;
+   color: white;
+
+
+
+ }
+
+
+.one{
+
+    display: flex;
+    gap: 10px;
+    
+
+}
+
+
+.creat{
+    color: blue;
+}
+
+
+body{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+    
+
+
+}
+
+
+.email{
+
+padding: 10px;
+width: 300px;
+border-radius: 10px;
+border: 2px solid gray;
+
+
+
+}
+
+
+.password{
+
+ padding: 30px;
+ width: 300px;
+ border-radius: 10px solid gray;
+ 
+
+}
+
+.aa{
+    display: flex;
+    gap: 90px;
+
+}
+ 
+
+
+
+.login-box input{
+    width:100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid black;
+    border-radius: 5px;
+
+}
+
+
+
+
+
